@@ -29,4 +29,4 @@ This assignment extends PA1 into an animated 3D WebGL scene driven by a real cam
 
 ## How to Run
 1. Serve the workspace root directory using a local web server (e.g., VS Code *Live Server* or `npx serve .`).
-2. Open `index.html` in Chrome or Firefox.
+2. Open `index.html` in Chrome or Firefox
